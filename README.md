@@ -1,18 +1,16 @@
-## Getting Started
+# Challenge Convertidor
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+    
+## Desdcripcion del proyecto 🚀
 
-## Folder Structure
+El proyecto consiste en la creación de tres programas en Java que permiten convertir diferentes unidades. El primer programa es un conversor de monedas, el segundo es un conversor de temperaturas y el tercero es un conversor de unidades de tiempo. Cada uno de los programas tiene una interfaz gráfica de usuario que permite al usuario ingresar los valores a convertir y elegir la unidad de conversión deseada. Una vez ingresados los datos, el programa realiza la conversión y muestra el resultado en la pantalla. Los programas están diseñados para ser simples y fáciles de usar.
 
-The workspace contains two folders by default, where:
+ **Screenshot** 
+![App Screenshot](https://raw.githubusercontent.com/rafopm/conversor-challenge-alura-one/main/conversor/screenshot/conversor_challenge.png)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+ **Tecnologías usadas** 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Java, Visual Studio Code, Eclipse
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
